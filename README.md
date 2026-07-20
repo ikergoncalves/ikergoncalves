@@ -9,13 +9,13 @@
 
 ### About me
 
-I'm a full-stack developer with 3+ years of experience building modern web applications. I work across the entire stack — from React/TypeScript frontends to Node.js backends, Python scripts, and containerized deployments with Docker.
+I'm a full-stack developer with 3+ years of experience building modern web applications. I work across the entire stack — from React/TypeScript frontends to Node.js and Python backends, mobile apps with React Native, and containerized deployments with Docker.
 
 I care about clean code, developer experience, and shipping things that actually work in production.
 
 - 🌍 Based in Brazil, open to remote roles worldwide
-- 💼 3+ years of professional experience
-- 📱 Building cross-platform apps with React Native + Expo
+- 🤖 Building AI-powered tools — RAG pipelines, LLM integrations with the Claude API
+- 📱 Cross-platform apps with React Native + Expo + Supabase
 - 🧪 Advocate for testing culture (Vitest + Testing Library)
 - 💬 Happy to chat about React architecture, TypeScript patterns or system design
 
@@ -23,25 +23,24 @@ I care about clean code, developer experience, and shipping things that actually
 
 ### Tech stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,nodejs,express,python,fastapi&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,docker,githubactions,tailwind,vitest,git,figma&perline=8" />
+</p>
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+---
 
-**Mobile**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+### Featured projects
 
-**Infra & tooling**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [CodeReviewer](https://github.com/ikergoncalves/CodeReviewer) | AI-powered code reviewer with real-time streaming and line-by-line issue detection | React · TypeScript · Claude API |
+| [StreakSync](https://github.com/ikergoncalves/StreakSync) | Offline-first habit tracker with real-time social accountability | React Native · Expo · Supabase |
+| [SplitLedger](https://github.com/ikergoncalves/SplitLedger) | Async expense-splitting backend with automatic debt simplification | Python · FastAPI |
+| [RAG](https://github.com/ikergoncalves/RAG) | Retrieval-augmented generation with clickable citations | Python |
+| [chiselui](https://github.com/ikergoncalves/chiselui) | Precisely chiseled React component library | React · TypeScript |
 
 ---
 
@@ -49,23 +48,19 @@ I care about clean code, developer experience, and shipping things that actually
 
 <p align="center">
   <img height="160" src="./profile/stats.svg" />
+  <img height="160" src="./profile/top-langs.svg" />
 </p>
 
 ---
 
 ### Let's connect
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/iker-goncalves">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:ikercurso@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  &nbsp;
-  <!-- Optional: add your portfolio link -->
-  <!-- <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a> -->
 </p>
