@@ -48,8 +48,7 @@ I care about clean code, developer experience, and shipping things that actually
 ### GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ikergoncalves&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikergoncalves&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="./profile/stats.svg" />
 </p>
 
 ---
