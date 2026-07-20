@@ -44,11 +44,6 @@ I care about clean code, developer experience, and shipping things that actually
 ### Let's connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/iker-goncalves">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ikercurso@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
+  <a href="https://linkedin.com/in/iker-goncalves"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ikercurso@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
