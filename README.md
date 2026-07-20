@@ -32,18 +32,6 @@ I care about clean code, developer experience, and shipping things that actually
 
 ---
 
-### Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [CodeReviewer](https://github.com/ikergoncalves/CodeReviewer) | AI-powered code reviewer with real-time streaming and line-by-line issue detection | React · TypeScript · Claude API |
-| [StreakSync](https://github.com/ikergoncalves/StreakSync) | Offline-first habit tracker with real-time social accountability | React Native · Expo · Supabase |
-| [SplitLedger](https://github.com/ikergoncalves/SplitLedger) | Async expense-splitting backend with automatic debt simplification | Python · FastAPI |
-| [RAG](https://github.com/ikergoncalves/RAG) | Retrieval-augmented generation with clickable citations | Python |
-| [chiselui](https://github.com/ikergoncalves/chiselui) | Precisely chiseled React component library | React · TypeScript |
-
----
-
 ### GitHub stats
 
 <p align="center">
